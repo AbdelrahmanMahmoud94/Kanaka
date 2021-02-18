@@ -1,7 +1,10 @@
 # Kanaka
-## E-Commerce Cafe Managment
-![](Images/kanaka1.PNG)!
-[](Images/kanaka2.PNG)
-![](Images/kanaka3.PNG)
-![](Images/kanaka4.PNG)
+## Restaurant Managment 
+![](images/ch_1.PNG)
+![](images/ch_2.PNG)
+![](images/ch_3.PNG)
+![](images/ch_4.PNG)
+![](images/ch_5.PNG)
+![](images/ch_6.PNG)
+![](images/ch_7.PNG)
  
